@@ -1,5 +1,5 @@
-package z1;
 
+import java.util.*;
 public class z2 {
 
 	public static void main(String[] args) {
